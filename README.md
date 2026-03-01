@@ -1,1 +1,1 @@
-# aws-api-gateway-assignment
+# DevOps Assignment 1 - AWS API Gateway
